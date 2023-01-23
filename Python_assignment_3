@@ -1,6 +1,6 @@
 # My_captain_python
 #to count the terms in string
-def most_frequency(string):
+def most_frequent(string):
     d=dict()
     for key in string:
         if key not in d:
